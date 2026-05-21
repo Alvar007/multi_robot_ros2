@@ -1,0 +1,6 @@
+{
+  "package_name": "t3_action_msg",
+  "non_idl_tuples": [
+    "/home/ros2_ws/src/tb3_multirobot_ros2/tb3_sim/t3_action_msg:action/Move.action"
+  ]
+}

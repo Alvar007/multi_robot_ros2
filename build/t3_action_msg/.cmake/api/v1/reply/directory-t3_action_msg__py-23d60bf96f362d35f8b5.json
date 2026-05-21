@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "t3_action_msg__py",
+		"source" : "/home/ros2_ws/build/t3_action_msg/t3_action_msg__py"
+	}
+}

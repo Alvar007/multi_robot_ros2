@@ -1,0 +1,3 @@
+[console_scripts]
+kheperaIV_client_driver = uned_kheperaiv_driver.kheperaIV_client_driver:main
+

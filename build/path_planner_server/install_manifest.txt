@@ -1,0 +1,15 @@
+/home/ros2_ws/install/path_planner_server/share/ament_index/resource_index/package_run_dependencies/path_planner_server
+/home/ros2_ws/install/path_planner_server/share/ament_index/resource_index/parent_prefix_path/path_planner_server
+/home/ros2_ws/install/path_planner_server/share/path_planner_server/environment/ament_prefix_path.sh
+/home/ros2_ws/install/path_planner_server/share/path_planner_server/environment/ament_prefix_path.dsv
+/home/ros2_ws/install/path_planner_server/share/path_planner_server/environment/path.sh
+/home/ros2_ws/install/path_planner_server/share/path_planner_server/environment/path.dsv
+/home/ros2_ws/install/path_planner_server/share/path_planner_server/local_setup.bash
+/home/ros2_ws/install/path_planner_server/share/path_planner_server/local_setup.sh
+/home/ros2_ws/install/path_planner_server/share/path_planner_server/local_setup.zsh
+/home/ros2_ws/install/path_planner_server/share/path_planner_server/local_setup.dsv
+/home/ros2_ws/install/path_planner_server/share/path_planner_server/package.dsv
+/home/ros2_ws/install/path_planner_server/share/ament_index/resource_index/packages/path_planner_server
+/home/ros2_ws/install/path_planner_server/share/path_planner_server/cmake/path_planner_serverConfig.cmake
+/home/ros2_ws/install/path_planner_server/share/path_planner_server/cmake/path_planner_serverConfig-version.cmake
+/home/ros2_ws/install/path_planner_server/share/path_planner_server/package.xml
